@@ -1,4 +1,4 @@
-autocomplete
-============
+Autocomplete with PHP, MySQL and Jquery UI
+=============
 
-Autocomplete files to accompany tutorial
+These files acompany the tutorial: [Autocomplete with PHP, MySQL and Jquery UI](http://daveismyname.com/autocomplete-with-php-mysql-and-jquery-ui-bp)
